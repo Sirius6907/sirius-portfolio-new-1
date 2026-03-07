@@ -1,0 +1,27 @@
+<a-work class={cssClass}>
+  <div class="a__inner">
+    <a href={site} target="_blank">
+      <video
+        data-src={src}
+        class="a__video js-video"
+        loop
+        muted
+        playsinline
+        width="1082"
+        height="636"
+      >
+      </video>
+
+      <div class="a__caption">
+        <div class="a__caption__text">
+          {caption}
+        </div><!-- .a__caption__text -->
+
+        <div class="a__caption__key">
+          #{key}
+        </div><!-- .a__caption__key -->
+      </div><!-- .a__caption -->
+    </a>
+  </div><!-- .a__inner -->
+</a-work>
+

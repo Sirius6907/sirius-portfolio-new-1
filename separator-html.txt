@@ -1,0 +1,29 @@
+<a-separator class:list={['style--' + style, className]} data-intersect>
+  <span class="a__triangle"></span>
+
+  <span class="a__binaries">
+    {
+      binaries.map((binary) => (
+        <>
+          <span class="a__code js-code">
+            {binary.split('').map((char) => (
+              <span
+                class:list={[
+                  'a__char',
+                  'a__char--' + (char === ' ' ? 'blank' : char),
+                  'js-char',
+                ]}
+              >
+                {char}
+              </span>
+            ))}
+          </span>
+          <span class="a__stripes" />
+        </>
+      ))
+    }
+  </span>
+
+  <span class="a__triangle"></span>
+</a-separator>
+

@@ -1,20 +1,15 @@
-# Contributing to this Project
+# Contributing to Sirius Portfolio
 
-First off, thank you for considering contributing! Projects like this thrive on community feedback and code contributions.
+Thank you for your interest in my developer portfolio!
 
-## 🚀 How to Contribute
+## How to Contribute
 
-1.  **Fork the Project**: Click the 'Fork' button at the top right of this page.
-2.  **Clone your Fork**: `git clone https://github.com/Sirius6907/sirius-portfolio-new-1.git`.
-3.  **Create a Branch**: `git checkout -b feature/amazing-feature`.
-4.  **Make Changes**: Implement your feature or fix.
-5.  **Commit**: Use descriptive commit messages.
-6.  **Push**: `git push origin feature/amazing-feature`.
-7.  **Open a Pull Request**: Explain your changes and why they are valuable.
+This is a personal project, but I welcome feedback and suggestions.
 
-## 🛠️ Code Standards
-- Follow the existing code style (Prettier/ESLint configs where present).
-- Ensure all new features are documented in the README.
+1. Fork the repo.
+2. Create a feature branch.
+3. Submit a PR with your improvements.
 
-## 🐛 Reporting Bugs
-Use the GitHub Issues tab to report bugs. Provide as much detail as possible.
+## Contact
+
+For professional inquiries, please reach out via [LinkedIn](https://www.linkedin.com/).
